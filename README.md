@@ -1,1 +1,1 @@
-# Etch-A-Sketch
+A programmable sketchbook
